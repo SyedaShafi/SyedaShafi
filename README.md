@@ -1,4 +1,4 @@
-(https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/277173952_652616449185226_3595160914931147154_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEzx6aaIV2huMvkTZ3Qq9O9LwUGMm_eE2UvBQYyb94TZe7xy3Qa-dmFw9z-nDkVdgk8MZQmm-h4fnQOtX9D2YxS&_nc_ohc=dI_TVCDfQh8AX-VfbsE&_nc_oc=AQkhpiRNfGjwUGXeHE92Hs2URjPlGzgp8eGH2fWOlo_ieqjsyhqIe5Fi2y9ljZCVHEk&_nc_ht=scontent.fdac149-1.fna&oh=00_AfBPQv8YthyJl8ftMDm5Db5wfYd4k3aVa2oMvkaUepFyAw&oe=65A58983)
+!(https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/277173952_652616449185226_3595160914931147154_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEzx6aaIV2huMvkTZ3Qq9O9LwUGMm_eE2UvBQYyb94TZe7xy3Qa-dmFw9z-nDkVdgk8MZQmm-h4fnQOtX9D2YxS&_nc_ohc=dI_TVCDfQh8AX-VfbsE&_nc_oc=AQkhpiRNfGjwUGXeHE92Hs2URjPlGzgp8eGH2fWOlo_ieqjsyhqIe5Fi2y9ljZCVHEk&_nc_ht=scontent.fdac149-1.fna&oh=00_AfBPQv8YthyJl8ftMDm5Db5wfYd4k3aVa2oMvkaUepFyAw&oe=65A58983)
 
 ### Hi there 👋, I am Syeda Shafi
 #### Programmer | Python | C++
