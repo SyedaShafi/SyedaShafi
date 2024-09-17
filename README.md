@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syeda Gulnaj Akther</h1>
-<div align="center"> <img src="https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966"> </div>
-<h1 align="center">A Web Developer from Bangladesh</h1>
+<div align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
+  <h1>A Web Developer from Bangladesh</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedashafi&label=Profile%20views&color=0e75b6&style=flat" alt="syedashafi" /> </p>
