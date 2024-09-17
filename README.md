@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syeda Gulnaj Akther</h1>
 <div align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
-  <h1>A Web Developer from Bangladesh</h1>
+</div>
+<h1>A Web Developer from Bangladesh</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedashafi&label=Profile%20views&color=0e75b6&style=flat" alt="syedashafi" /> </p>
